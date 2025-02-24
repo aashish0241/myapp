@@ -2,6 +2,7 @@
 title = SMS OTP Reader
 package.name = smsotpreader
 package.domain = sms.reader
+version = 1.0
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 requirements = python3,kivy,pyjnius
